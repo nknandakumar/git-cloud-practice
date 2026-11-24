@@ -1,0 +1,4 @@
+Application: Cloud Demo
+Environment: Development
+Version: 1.0
+Status: Stable
